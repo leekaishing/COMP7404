@@ -3,7 +3,7 @@
 ### Group Project Proposal
 
 ## Group Members:
-* 
+* Lee Kai Shing 3035562540
 * Mak Tak Hei 3035420273
 * Lui Sin Ying Bianca 2010085577
 * Lo Rocky 3035420077
